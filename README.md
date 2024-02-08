@@ -12,5 +12,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena7Z&show_icons=true&theme=transparent)](https://github.com/Lena7Z/github-readme-stats)
 
+## My CV
+[Link to my CV](https://docs.google.com/document/d/1GchQM6NiCeBudXV0twVsouaafOict4-dhSN2_IqGmTo/edit?usp=sharing)
 
+## Testing documentation
 
