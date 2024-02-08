@@ -16,7 +16,10 @@
 
 ## Testing documentation
 
-[Postman Collections](https://github.com/Lena7Z/Postman-Collections)
+[Postman Collections](https://github.com/Lena7Z/Postman-Collections)  
+[SQL Queries](https://github.com/Lena7Z/SQL)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena7Z&show_icons=true&theme=transparent)](https://github.com/Lena7Z/github-readme-stats)
 
