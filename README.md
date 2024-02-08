@@ -20,6 +20,8 @@
 [SQL Queries](https://github.com/Lena7Z/SQL)  
 [Checklists](https://github.com/Lena7Z/Checklists)  
 [Test-Suites and Test-Cases](https://github.com/Lena7Z/Test-Suites-and-Test-Cases)  
+[Bug-Reports](https://github.com/Lena7Z/Bug-Reports)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena7Z&show_icons=true&theme=transparent)](https://github.com/Lena7Z/github-readme-stats)
 
