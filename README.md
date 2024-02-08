@@ -18,7 +18,8 @@
 
 [Postman Collections](https://github.com/Lena7Z/Postman-Collections)  
 [SQL Queries](https://github.com/Lena7Z/SQL)  
-[Checklists ](https://github.com/Lena7Z/Checklists)  
+[Checklists](https://github.com/Lena7Z/Checklists)  
+[Test-Suites and Test-Cases](https://github.com/Lena7Z/Test-Suites-and-Test-Cases)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena7Z&show_icons=true&theme=transparent)](https://github.com/Lena7Z/github-readme-stats)
 
