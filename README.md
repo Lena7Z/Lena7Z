@@ -9,3 +9,7 @@
 ## Follow me 
 [![linkedin](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin)](https://www.linkedin.com/in/elenazeablova)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lena7Z&show_icons=true&theme=transparent)](https://github.com/Lena7Z/github-readme-stats)
+
+
+
